@@ -5,7 +5,7 @@ export function RealWorldExamplesSection() {
   const examples = [
     {
       title: "AI-Powered Prosthetics",
-      image: "/placeholder.svg?height=200&width=300",
+      image: "/prosthetics.jpg?height=200&width=300",
       story:
         "Advanced prosthetic limbs that learn from neural signals, giving amputees natural movement and even a sense of touch.",
       impact: "Restores dignity and independence to those who have lost limbs",
@@ -13,7 +13,7 @@ export function RealWorldExamplesSection() {
     },
     {
       title: "Companion Robots for Elderly",
-      image: "/placeholder.svg?height=200&width=300",
+      image: "/companion.jpg?height=200&width=300",
       story:
         "Gentle robots that provide companionship, medication reminders, and emergency assistance for aging populations.",
       impact: "Reduces loneliness while maintaining independence and safety",
@@ -21,7 +21,7 @@ export function RealWorldExamplesSection() {
     },
     {
       title: "Ocean Cleanup Drones",
-      image: "/placeholder.svg?height=200&width=300",
+      image: "/clean.jpg?height=200&width=300",
       story:
         "Autonomous marine vehicles that collect plastic waste while protecting sea life through gentle, bio-inspired movements.",
       impact: "Heals our oceans while preserving marine ecosystems",
@@ -29,7 +29,7 @@ export function RealWorldExamplesSection() {
     },
     {
       title: "Therapeutic AI Assistants",
-      image: "/placeholder.svg?height=200&width=300",
+      image: "/assistant.jpg?height=200&width=300",
       story:
         "AI counselors trained in empathy and active listening, providing 24/7 mental health support with human warmth.",
       impact: "Makes mental healthcare accessible to everyone, everywhere",
@@ -37,7 +37,7 @@ export function RealWorldExamplesSection() {
     },
     {
       title: "Smart Urban Gardens",
-      image: "/placeholder.svg?height=200&width=300",
+      image: "/smart.jpg?height=200&width=300",
       story:
         "Intelligent growing systems that optimize water, nutrients, and light to grow food in cities with minimal environmental impact.",
       impact: "Feeds communities while regenerating urban environments",
@@ -45,7 +45,7 @@ export function RealWorldExamplesSection() {
     },
     {
       title: "Assistive Learning AI",
-      image: "/placeholder.svg?height=200&width=300",
+      image: "/learn.jpg?height=200&width=300",
       story:
         "Educational AI that adapts to each child's learning style, providing patient, encouraging support for students with disabilities.",
       impact: "Ensures every child can learn and thrive at their own pace",

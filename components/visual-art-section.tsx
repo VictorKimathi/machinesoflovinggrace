@@ -13,32 +13,32 @@ export function VisualArtSection() {
     {
       title: "Digital Embrace",
       description: "AI-generated artwork exploring the tender connection between human and machine consciousness.",
-      image: "/placeholder.svg?height=400&width=300",
+      image: "/embrace.jpg?height=400&width=300",
     },
     {
       title: "Algorithmic Garden",
       description: "A visualization of data flowing like water through a computational ecosystem.",
-      image: "/placeholder.svg?height=400&width=300",
+      image: "/molg.webp?height=400&width=300",
     },
     {
       title: "Neural Sunset",
       description: "The beauty of artificial neural networks rendered as a peaceful landscape.",
-      image: "/placeholder.svg?height=400&width=300",
+      image: "/molg.webp?height=400&width=300",
     },
     {
       title: "Compassionate Code",
       description: "Programming languages transformed into flowing, organic forms that suggest empathy.",
-      image: "/placeholder.svg?height=400&width=300",
+      image: "/molg.webp?height=400&width=300",
     },
     {
       title: "Gentle Intelligence",
       description: "An abstract representation of AI consciousness emerging with grace and wisdom.",
-      image: "/placeholder.svg?height=400&width=300",
+      image: "/deep.webp?height=400&width=300",
     },
     {
       title: "Harmony Protocol",
       description: "The dance between human creativity and machine precision, visualized in flowing forms.",
-      image: "/placeholder.svg?height=400&width=300",
+      image: "/molg.webp?height=400&width=300",
     },
   ]
 
